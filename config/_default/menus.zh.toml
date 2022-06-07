@@ -1,0 +1,39 @@
+[[main]]
+  identifier = "rss"
+  name = "RSS"
+  url = "about"
+  weight = 1
+
+[[main]]
+  identifier = "about"
+  name = "关于我"
+  url = "about"
+  weight = 2
+
+[[main]]
+  identifier = "archive"
+  name = "归档"
+  url = "archive"
+  weight = 3
+
+[[main]]
+  identifier = "gallery"
+  name = "Gallery"
+  url = "gallery"
+  weight = 4
+    
+[[main]]
+  parent = "gallery"
+  name = "Cartoon"
+  url = "gallery/cartoon"
+
+[[main]]
+  parent = "gallery"
+  name = "Photo"
+  url = "gallery/photo"
+
+[[main]]
+  identifier = "showcase"
+  name = "项目"
+  url = "showcase"
+  weight = 5
