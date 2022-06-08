@@ -1,7 +1,7 @@
 [[main]]
   identifier = "rss"
   name = "RSS"
-  url = "about"
+  url = "index.xml"
   weight = 1
 
 [[main]]

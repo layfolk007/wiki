@@ -1,7 +1,13 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-type: archive
+publishDate: {{ .Date }}
 description:
+tags:
+-
+series:
+-
+categories:
+-
 titleWrap: wrap # wrap, noWrap
 ---

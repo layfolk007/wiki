@@ -1,7 +1,7 @@
-logoText = "Zzo"
+logoText = "测试博客"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
-custom_css = []
+description = "这是一个测试博客"
+custom_css = ["scss/custom.scss"]
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
 meta_image = ""
