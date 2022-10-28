@@ -9,11 +9,8 @@ enableTocContent: false
 tocFolding: false
 tocPosition: inner
 tocLevels: ["h2", "h3", "h4"]
-tags:
--
+tags: []
 series:
--
-categories:
--
+categories: []
 image:
 ---
