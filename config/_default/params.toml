@@ -1,4 +1,4 @@
-logoText = "layfolk的成长之路"
+logoText = "成长之路"
 logoType = "short" # long, short
 description = "这是一个记录成长之路的博客"
 custom_css = ["scss/custom.scss"]
