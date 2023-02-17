@@ -16,24 +16,24 @@
   url = "archive"
   weight = 3
 
-[[main]]
-  identifier = "gallery"
-  name = "Gallery"
-  url = "gallery"
-  weight = 4
-    
-[[main]]
-  parent = "gallery"
-  name = "Cartoon"
-  url = "gallery/cartoon"
-
-[[main]]
-  parent = "gallery"
-  name = "Photo"
-  url = "gallery/photo"
-
-[[main]]
-  identifier = "showcase"
-  name = "项目"
-  url = "showcase"
-  weight = 5
+# [[main]]
+#   identifier = "gallery"
+#   name = "Gallery"
+#   url = "gallery"
+#   weight = 4
+#
+# [[main]]
+#   parent = "gallery"
+#   name = "Cartoon"
+#   url = "gallery/cartoon"
+#
+# [[main]]
+#   parent = "gallery"
+#   name = "Photo"
+#   url = "gallery/photo"
+#
+# [[main]]
+#   identifier = "showcase"
+#   name = "项目"
+#   url = "showcase"
+#   weight = 5

@@ -1,0 +1,1 @@
+[一款面向云原生设计的高性能共享文件系统](https://juicefs.com/docs/zh/community/introduction/)

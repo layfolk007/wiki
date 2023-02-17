@@ -3,7 +3,7 @@ logoType = "short" # long, short
 description = "这是一个记录成长之路的博客"
 custom_css = ["scss/custom.scss"]
 custom_js = []
-useFaviconGenerator = true # https://www.favicon-generator.org/
+useFaviconGenerator = false # https://www.favicon-generator.org/
 meta_image = ""
 themecolor = ""
 
@@ -44,7 +44,7 @@ enableGoToTop = true
 enableWhoami = true
 summaryShape = "classic" # card, classic, compact
 archiveGroupByDate = "2006" # "2006-01": group by month, "2006": group by year
-archivePaginate = 13
+archivePaginate = 20
 paginateWindow = 1
 talksPaginate = 5
 talksGroupByDate = "2006"
@@ -161,7 +161,7 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "mailto:your@email.com"
+  email = "mailto:magic1860@qq.com"
   phone = ""
   facebook = ""
   twitter = ""
@@ -201,10 +201,10 @@ commento = false
 
 # possible share name: ["facebook","twitter", "reddit", "linkedin", "tumblr", "weibo", "douban", "line", "pocket", "feedly", "hatena", "pinterest", "delicious", "google"]
 [[share]]
-  name = "facebook"
+  name = "weibo"
   username = ""
 [[share]]
-  name = "twitter"
+  name = "douban"
 
 [[footerLinks]]
   name = ""
