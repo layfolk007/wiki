@@ -1,3 +1,19 @@
+---
+title: "macosx"
+date: 2022-10-28T16:52:09+08:00
+description: "macosx"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["windows"]
+series: ["windows"]
+categories: ["windows"]
+image:
+---
 # macosx
 
 esxi5.5最多只能安装macOS10.13版本

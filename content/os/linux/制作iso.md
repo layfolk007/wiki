@@ -1,3 +1,19 @@
+---
+title: "制作iso"
+date: 2022-10-28T16:52:09+08:00
+description: "制作iso"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["linux"]
+series: ["linux"]
+categories: ["linux"]
+image:
+---
 制作环境：CentOS-6.7-minimal\_x86\_64  
 首先挂载系统盘：
 

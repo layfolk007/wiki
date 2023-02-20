@@ -1,3 +1,19 @@
+---
+title: "linux-3"
+date: 2022-10-28T16:52:09+08:00
+description: "linux-3"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["linux"]
+series: ["linux"]
+categories: ["linux"]
+image:
+---
 #### 给yum添加变量，可以在repo仓库配置中调用，例：
 
 ```

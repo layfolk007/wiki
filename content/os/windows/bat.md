@@ -1,3 +1,19 @@
+---
+title: "bat"
+date: 2022-10-28T16:52:09+08:00
+description: "bat"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["windows"]
+series: ["windows"]
+categories: ["windows"]
+image:
+---
 批处理获取管理员运行权限的几种方法
 
 方法1：借用VBS脚本

@@ -1,3 +1,19 @@
+---
+title: "docker"
+date: 2022-10-28T16:52:09+08:00
+description: "docker"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["虚拟化及云"]
+series: ["虚拟化及云"]
+categories: ["虚拟化及云"]
+image:
+---
 [mosquitto](http://blog.itpub.net/28624388/viewspace-1439881/)  
 [docker实战里的案例](https://github.com/docker-in-practice)
 

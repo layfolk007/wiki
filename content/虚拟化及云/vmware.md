@@ -1,3 +1,19 @@
+---
+title: "vmware"
+date: 2022-10-28T16:52:09+08:00
+description: "vmware"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["虚拟化及云"]
+series: ["虚拟化及云"]
+categories: ["虚拟化及云"]
+image:
+---
 ### vsphere
 
 虚机的VT开启条件：硬件为9

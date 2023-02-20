@@ -1,3 +1,19 @@
+---
+title: "openstack"
+date: 2022-10-28T16:52:09+08:00
+description: "openstack"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["虚拟化及云"]
+series: ["虚拟化及云"]
+categories: ["虚拟化及云"]
+image:
+---
 [vmware虚拟机安装openstack无法启动实例](https://www.imooc.com/article/details/id/28873)
 
 openstack安装方法\(juju、openstack-ansible、packstack、devstack、fuel\)

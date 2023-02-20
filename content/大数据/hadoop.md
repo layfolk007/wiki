@@ -1,3 +1,19 @@
+---
+title: "hadoop"
+date: 2022-10-28T16:52:09+08:00
+description: "hadoop"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["hadoop"]
+series: ["hadoop"]
+categories: ["hadoop"]
+image:
+---
 # hadoop
 
 ===&gt;系列部署管理工具ambari，yum repo[下载地址](http://public-repo-1.hortonworks.com/ambari/centos7/2.x/updates/2.7.3.0/ambari.repo)

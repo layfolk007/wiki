@@ -1,3 +1,19 @@
+---
+title: "elk常用指令"
+date: 2022-10-28T16:52:09+08:00
+description: "elk常用指令"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["elk"]
+series: ["elk"]
+categories: ["elk"]
+image:
+---
 **操作**
 
 ```

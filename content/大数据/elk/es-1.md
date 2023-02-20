@@ -1,3 +1,19 @@
+---
+title: "elk指令"
+date: 2022-10-28T16:52:09+08:00
+description: "elk指令"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["elk"]
+series: ["elk"]
+categories: ["elk"]
+image:
+---
 按sendFixDate升序，显示最小的1条
 
 ```

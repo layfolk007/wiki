@@ -1,3 +1,19 @@
+---
+title: "kafka"
+date: 2022-10-28T16:52:09+08:00
+description: "kafka"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["kafka"]
+series: ["kafka"]
+categories: ["kafka"]
+image:
+---
 [SASL/SCRAM+ACL实现动态创建用户及权限控制](https://blog.csdn.net/ashic/article/details/86661599)、[Kafka名词解释等](https://www.cnblogs.com/biehongli/p/8335538.html)
 
 **一、sasl scram**

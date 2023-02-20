@@ -1,3 +1,19 @@
+---
+title: "tomcat"
+date: 2022-10-28T16:52:09+08:00
+description: "tomcat"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["应用"]
+series: ["应用"]
+categories: ["应用"]
+image:
+---
 ## iis7.5和tomcat7整合
 
 注：64位系统要用64位的isapi\_redirect.dll

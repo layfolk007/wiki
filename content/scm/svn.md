@@ -1,3 +1,19 @@
+---
+title: "svn"
+date: 2022-10-28T16:52:09+08:00
+description: "svn"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["scm"]
+series: ["scm"]
+categories: ["scm"]
+image:
+---
 # svn
 
 [visualsvn证书问题](https://www.visualsvn.com/support/topic/00056/)

@@ -1,3 +1,19 @@
+---
+title: "windows"
+date: 2022-10-28T16:52:09+08:00
+description: "windows"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["windows"]
+series: ["windows"]
+categories: ["windows"]
+image:
+---
 **windows server 2012 r2 standard 135,137,138,139,445等端口关闭**  
 找到两种方法：  
 1、防火墙  

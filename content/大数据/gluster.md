@@ -1,3 +1,19 @@
+---
+title: "glusterfs"
+date: 2022-10-28T16:52:09+08:00
+description: "glusterfs"
+draft: false
+hideToc: false
+enableToc: true
+enableTocContent: false
+tocFolding: false
+tocPosition: inner
+tocLevels: ["h2", "h3", "h4"]
+tags: ["glusterfs"]
+series: ["glusterfs"]
+categories: ["glusterfs"]
+image:
+---
 [glusterfs分布式文件系统详细原理](http://blog.csdn.net/yujin2010good/article/details/75268877)  
 1、安装
 
