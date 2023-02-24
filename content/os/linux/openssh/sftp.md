@@ -11,7 +11,7 @@ tocPosition: inner
 tocLevels: ["h2", "h3", "h4"]
 tags: ["linux"]
 series:
-categories: ["linux"]
+categories: ["os","linux"]
 image:
 ---
 ```

@@ -5,6 +5,3 @@ draft: false
 tags: []
 categories: []
 ---
-# db
-
-[lepus(天兔)开源数据库监控系统](http://www.lepus.cc/)

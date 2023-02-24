@@ -1,7 +1,7 @@
 ---
-title: "linux-3"
+title: "linux实用工具"
 date: 2022-10-28T16:52:09+08:00
-description: "linux-3"
+description: "linux实用工具"
 draft: false
 hideToc: false
 enableToc: true
@@ -14,18 +14,7 @@ series: ["linux"]
 categories: ["linux"]
 image:
 ---
-#### 给yum添加变量，可以在repo仓库配置中调用，例：
-
-```
-cat /etc/redhat-release 
-vim /etc/yum/vars/full_releasever 
-
-# 查看所有可用变量
-python -c 'import yum, pprint; yb = yum.YumBase();pprint.pprint(yb.conf.yumvar, width=1)'
-```
-
-#### 实用工具
-
+### 实用工具
 ```
 autojump：一键直达
 yum install autojump
@@ -79,6 +68,3 @@ yum install cloc
 ccache：高速C/C++编译缓存工具，反复编译内核非常有用。使用起来也非常方便
 yum install ccache
 ```
-
-[Linux下快速比较两个目录的不同](https://www.jb51.net/article/140596.htm)（多种方法）、[centos6升7](https://mrlin.net/1408.html)
-

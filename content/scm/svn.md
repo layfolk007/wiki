@@ -14,8 +14,6 @@ series: ["scm"]
 categories: ["scm"]
 image:
 ---
-# svn
-
 [visualsvn证书问题](https://www.visualsvn.com/support/topic/00056/)
 
 ### subversion+httpd

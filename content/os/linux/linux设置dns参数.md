@@ -1,7 +1,7 @@
 ---
-title: "设置dns"
+title: "linux设置dns参数"
 date: 2022-10-28T16:52:09+08:00
-description: "设置dns"
+description: "linux设置dns参数"
 draft: false
 hideToc: false
 enableToc: true
@@ -15,7 +15,6 @@ categories: ["linux"]
 image:
 ---
 CetnOS
-
 ```
 1、可以在/etc/sysconfig/network设置
 RES_OPTIONS="rotate timeout:1 retries:1"

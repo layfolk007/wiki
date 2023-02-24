@@ -14,12 +14,7 @@ series:
 categories: []
 image:
 ---
-**资源监控**
-
-[glances](https://github.com/nicolargo/glances)
-
 **homebrew及linuxbrew**
-
 ```
 Homebrew这级目录应该可以去掉，未尝试
 # homebrew安装，可使用国内源
@@ -39,5 +34,3 @@ git clone https://github.com/Homebrew/linuxbrew-core.git ~/.linuxbrew/Homebrew/L
 linuxbrew-core注意不是homebrew-core，用github源，目前没有找到国内源
 linuxbrew-cask目前没有
 ```
-
-[ultimateshell](https://github.com/G3G4X5X6/ultimateshell)

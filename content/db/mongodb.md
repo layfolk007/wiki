@@ -11,14 +11,10 @@ tocPosition: inner
 tocLevels: ["h2", "h3", "h4"]
 tags: ["mongodb"]
 series: ["mongodb"]
-categories: ["mongodb"]
+categories: ["db","mongodb"]
 image:
 ---
 **备份**
-
 ```
 --gzip -u mongo_admin -p '123456' --authenticationDatabase admin -o .
 ```
-
-
-

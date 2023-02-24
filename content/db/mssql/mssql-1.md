@@ -11,7 +11,7 @@ tocPosition: inner
 tocLevels: ["h2", "h3", "h4"]
 tags: []
 series:
-categories: ["mssql"]
+categories: ["db","mssql"]
 image:
 ---
 **方法一**

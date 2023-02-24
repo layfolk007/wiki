@@ -11,15 +11,11 @@ tocPosition: inner
 tocLevels: ["h2", "h3", "h4"]
 tags: ["postgresql"]
 series: ["postgresql"]
-categories: ["postgresql"]
+categories: ["db","postgresql"]
 image:
 ---
 **导出**
-
 ```
 # 有\和没有是有区别的，带\的普通用户可执行
 \COPY (select * from test) TO 'a.csv' csv header
 ```
-
-
-
