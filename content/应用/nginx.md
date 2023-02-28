@@ -17,7 +17,6 @@ image:
 [nginx https反向tomcat http注意事项](https://blog.csdn.net/gggauss/article/details/79400665)
 
 ### location块
-
 | 配置格式 | 作用 |
 | :--- | :--- |
 | location = /uri | 表示精确匹配 |
@@ -36,16 +35,11 @@ image:
 6. “@”表示命名空间的位置，通常在重定向时，进行匹配，且不会改变URL的原始请求。
 
 只能在location块中的配置项：
-
 * internal：表示该location块只支持Nginx内部的请求访问，如支持rewrite、error\_page等重定向，但不能通过外部的HTTP直接访问。
 * limit\_except：限定该location块可执行的HTTP方法，如GET、POST
 * alias：定义指定位置的替换
-
 ```
     location /a/ {
         alias /a/b  #如果匹配到/a/index.php请求，在进入location块后，会将请求变成/a/b/index.php
     }
 ```
-
-
-

@@ -14,6 +14,7 @@ series:
 categories: ["其他"]
 image:
 ---
+`>9iwjvFmN+Kr&c<JN6$&+J+8#)*3W9<6A<(Q`
 [利用Python进行数据分析2](https://seancheney.gitbook.io/python-for-data-analysis-2nd/)
 [free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
@@ -42,7 +43,7 @@ image:
 [mqtt客户端](http://mqttfx.jensd.de)
 [redis客户端](https://github.com/uglide/RedisDesktopManager)，最后一个免费安装包为redis-desktop-manager-0.9.3.817.exe，新版本安装包收费或自行编译
 开源ETL工具Kettle，[下载](https://sourceforge.net/projects/pentaho/files)，[源码](https://github.com/pentaho/pentaho-kettle)
-[po文件编辑器](https://poedit.net)
+[po文件编辑器](https://poedit.net)、[负载均衡工具Lars](https://github.com/aceld/Lars)
 
 **下载**  
 [iruanmi](https://www.iruanmi.com/)、[itellyou](https://msdn.itellyou.cn/)

@@ -5,7 +5,3 @@ draft: false
 tags: []
 categories: []
 ---
-**openstack、docker、k8s**  
-[每天5分钟玩转](http://www.cnblogs.com/CloudMan6/p/5224114.html)
-
-serverless---google的Istio及knative

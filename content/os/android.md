@@ -14,7 +14,7 @@ series: ["windows"]
 categories: ["windows"]
 image:
 ---
-模拟linux环境\([详情](https://zhuanlan.zhihu.com/p/95865982)\)
+模拟linux环境([详情](https://zhuanlan.zhihu.com/p/95865982))
 
 Termux、Aid Learning
 
